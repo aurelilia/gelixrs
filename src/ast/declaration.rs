@@ -1,3 +1,9 @@
+/*
+ * Developed by Ellie Ang. (git@angm.xyz).
+ * Last modified on 8/22/19 7:44 PM.
+ * This file is under the GPL3 license. See LICENSE in the root directory of this repository for details.
+ */
+
 use super::super::lexer::token::Token;
 use super::expression::Expression;
 
