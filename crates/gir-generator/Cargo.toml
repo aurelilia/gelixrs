@@ -1,5 +1,5 @@
 [package]
-name = "gir"
+name = "gir_generator"
 version = "0.1.0"
 authors = ["Ellie Ang. <git@angm.xyz>"]
 edition = "2018"
