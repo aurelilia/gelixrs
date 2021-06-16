@@ -139,9 +139,4 @@ pub enum Token {
 
     #[regex(r"[ \t\n\f]+")]
     Whitespace,
-
-    /// This special token is unused by the lexer itself, but is
-    /// here for parsers or others to use as an alternative to using
-    /// Option<Token>, as this enum case makes handling EOF much easier.
-    EndOfFile,
 }
